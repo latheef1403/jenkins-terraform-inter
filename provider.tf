@@ -1,5 +1,5 @@
 provider "aws" {
   # Configuration options
   region = "us-east-1"
-  profile = "default"
+  ami_id = "ami-0c7217cdde317cfec"
 }
